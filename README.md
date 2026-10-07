@@ -1,15 +1,15 @@
 <p align="center"><img src="assets/banner.svg" alt="mohamadmilad hadad — Offline SSL Certificate Studio" width="100%"></p>
 
 <p align="center">
-  <a href="https://github.com/Developesar/offline-ssl-certificate-studio/releases/latest"><img alt="Version" src="https://img.shields.io/github/v/release/Developesar/offline-ssl-certificate-studio?color=51dfc0&style=for-the-badge"></a>
+  <a href="https://github.com/socialersocialinstagramer-gif/offline-ssl-certificate-studio/releases/latest"><img alt="Version" src="https://img.shields.io/github/v/release/socialersocialinstagramer-gif/offline-ssl-certificate-studio?color=51dfc0&style=for-the-badge"></a>
   <img alt="Platform" src="https://img.shields.io/badge/Windows-EXE-7dd3fc?style=for-the-badge">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-51dfc0?style=for-the-badge"></a>
-  <a href="https://github.com/Developesar/offline-ssl-certificate-studio/actions"><img alt="Tests" src="https://github.com/Developesar/offline-ssl-certificate-studio/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://github.com/socialersocialinstagramer-gif/offline-ssl-certificate-studio/actions"><img alt="Tests" src="https://github.com/socialersocialinstagramer-gif/offline-ssl-certificate-studio/actions/workflows/ci.yml/badge.svg"></a>
 </p>
 
 <p align="center"><b>Your certificates. Your computer. No uploads.</b><br>گواهی‌های شما، روی کامپیوتر شما، بدون آپلود.</p>
 
-<p align="center"><a href="#فارسی">فارسی</a> · <a href="#english">English</a> · <a href="https://github.com/Developesar/offline-ssl-certificate-studio/releases/latest">Download EXE / دانلود</a> · <a href="CONTRIBUTING.md">Contribute / مشارکت</a></p>
+<p align="center"><a href="#فارسی">فارسی</a> · <a href="#english">English</a> · <a href="https://github.com/socialersocialinstagramer-gif/offline-ssl-certificate-studio/releases/latest">Download EXE / دانلود</a> · <a href="CONTRIBUTING.md">Contribute / مشارکت</a></p>
 
 ## فارسی
 
@@ -17,7 +17,7 @@
 
 ### دریافت نسخه اول
 
-از [صفحه انتشار v1.0.0](https://github.com/Developesar/offline-ssl-certificate-studio/releases/tag/v1.0.0)، فایل **mohamadmilad-hadad.exe** را دانلود و اجرا کنید. هش SHA-256 در فایل `SHA256SUMS.txt` همان انتشار قرار دارد. برنامه نصب‌کننده و دسترسی Administrator نمی‌خواهد. فایل اجرایی نسخه اول امضای دیجیتال ناشر ندارد.
+از [صفحه انتشار v1.0.0](https://github.com/socialersocialinstagramer-gif/offline-ssl-certificate-studio/releases/tag/v1.0.0)، فایل **mohamadmilad-hadad.exe** را دانلود و اجرا کنید. هش SHA-256 در فایل `SHA256SUMS.txt` همان انتشار قرار دارد. برنامه نصب‌کننده و دسترسی Administrator نمی‌خواهد. فایل اجرایی نسخه اول امضای دیجیتال ناشر ندارد.
 
 ### امکانات
 
@@ -75,7 +75,7 @@
 
 ### Download & use
 
-Download **mohamadmilad-hadad.exe** from [v1.0.0 Releases](https://github.com/Developesar/offline-ssl-certificate-studio/releases/tag/v1.0.0). `SHA256SUMS.txt` lists its checksum. No installer or administrator access is required. The first release is not publisher-signed.
+Download **mohamadmilad-hadad.exe** from [v1.0.0 Releases](https://github.com/socialersocialinstagramer-gif/offline-ssl-certificate-studio/releases/tag/v1.0.0). `SHA256SUMS.txt` lists its checksum. No installer or administrator access is required. The first release is not publisher-signed.
 
 Select the certificate, its original private key when required, and any issuer certificates. Enter the input password for encrypted sources, inspect the certificate, select output formats, choose a local folder and set an output password. Click **Convert & save**.
 
